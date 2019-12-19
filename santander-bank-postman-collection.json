@@ -1,0 +1,151 @@
+{
+    "id": "e7f4dd1ebcae1f1f2eda254c857cb135",
+    "name": "Santander Bank",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "51b50907379830cd4910b689dd81bf11",
+            "name": "Get ATMs",
+            "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/atms\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can provide multiple ATMs.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "rawModeData": ""
+        },
+        {
+            "id": "e2a754f3d257e451ed23f69c47348521",
+            "name": "Get Branches",
+            "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/branches\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple branches. ",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "rawModeData": ""
+        },
+        {
+            "id": "6a0beb05060bd9243840f8857c1a34d0",
+            "name": "Get Current Personal Accounts",
+            "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/personal-current-accounts\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple PCA products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "rawModeData": ""
+        },
+        {
+            "id": "af59257d633af68755dd26327de21ce3",
+            "name": "Get Current Business Accounts",
+            "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/business-current-accounts\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple BCA products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "rawModeData": ""
+        },
+        {
+            "id": "876e5bba45ffda65e1affa92c2060233",
+            "name": "Get Unsecured SME Loans",
+            "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/unsecured-sme-loans\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Unsecured Loan products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "rawModeData": ""
+        },
+        {
+            "id": "a771c120ca32debe3e337e31a56a4f38",
+            "name": "Get Commercial Credit Cards",
+            "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/commercial-credit-cards\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Commercial Credit Card products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "rawModeData": ""
+        }
+    ]
+}
