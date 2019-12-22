@@ -1,5 +1,5 @@
 {
-    "id": "e7f4dd1ebcae1f1f2eda254c857cb135",
+    "id": "1b48a0d0d1e3b6a110039fbb31e16d3e",
     "name": "Santander Bank",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "51b50907379830cd4910b689dd81bf11",
+            "id": "ed2eef00b15651948f6771b939f29f59",
             "name": "Get ATMs",
             "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/atms\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can provide multiple ATMs.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "collectionId": "1b48a0d0d1e3b6a110039fbb31e16d3e",
             "rawModeData": ""
         },
         {
-            "id": "e2a754f3d257e451ed23f69c47348521",
+            "id": "7a3f7a518a468fd80500f52dd49a7bd1",
             "name": "Get Branches",
             "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/branches\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple branches. ",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "collectionId": "1b48a0d0d1e3b6a110039fbb31e16d3e",
             "rawModeData": ""
         },
         {
-            "id": "6a0beb05060bd9243840f8857c1a34d0",
+            "id": "c1341a69f970cc4d2a6195a4957cb6bc",
             "name": "Get Current Personal Accounts",
             "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/personal-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple PCA products.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "collectionId": "1b48a0d0d1e3b6a110039fbb31e16d3e",
             "rawModeData": ""
         },
         {
-            "id": "af59257d633af68755dd26327de21ce3",
+            "id": "dca19614ea8802297246fa29741d886b",
             "name": "Get Current Business Accounts",
             "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/business-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple BCA products.",
@@ -98,11 +98,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "collectionId": "1b48a0d0d1e3b6a110039fbb31e16d3e",
             "rawModeData": ""
         },
         {
-            "id": "876e5bba45ffda65e1affa92c2060233",
+            "id": "3769b62c8e237f26ee748d8240999e64",
             "name": "Get Unsecured SME Loans",
             "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/unsecured-sme-loans\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Unsecured Loan products.",
@@ -121,11 +121,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "collectionId": "1b48a0d0d1e3b6a110039fbb31e16d3e",
             "rawModeData": ""
         },
         {
-            "id": "a771c120ca32debe3e337e31a56a4f38",
+            "id": "9dfbd4532d8319a1fb22df55a16d7b19",
             "name": "Get Commercial Credit Cards",
             "url": "httpsopenapi.santander.co.ukopen-banking\/v2.1\/commercial-credit-cards\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Commercial Credit Card products.",
@@ -144,7 +144,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "e7f4dd1ebcae1f1f2eda254c857cb135",
+            "collectionId": "1b48a0d0d1e3b6a110039fbb31e16d3e",
             "rawModeData": ""
         }
     ]
